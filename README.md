@@ -1,7 +1,7 @@
 # InstaApi
 An API that shows photos shot nearby.
 
-![Insta API](instaAPI/instaPic.png)
+![Insta API](instaApi/instaPic.png)
 
 ## How It's Made:
 
