@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: gold;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  height: 1000px;
+}
+
+.image {
+  flex: 1 1 200px;
+  margin: 3px;
+  background-size: cover;
+  height: 800px;
+  width: 75%;
+  margin-left: 10%
+}
